@@ -1,2 +1,2 @@
 # App-Android
-primer app en andorid studio
+primer app en android studio
